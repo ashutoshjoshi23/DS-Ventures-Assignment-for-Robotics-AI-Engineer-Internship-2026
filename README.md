@@ -28,6 +28,13 @@ This repository contains the solution for the "Neural Navigator" assignment. The
    python predict.py
    ```
    This will generate prediction images in the `predictions/` directory.
+<img width="1000" height="500" alt="training_loss" src="https://github.com/user-attachments/assets/39b58926-671c-401f-b3e0-a2aa417e8644" />
+<img width="128" height="128" alt="pred_000086" src="https://github.com/user-attachments/assets/4389b3f8-7f77-41ee-a42d-19d13bff55c7" />
+<img width="128" height="128" alt="pred_000064" src="https://github.com/user-attachments/assets/d72b46f4-eb1f-4b1e-8cb9-f1c302319896" />
+<img width="128" height="128" alt="pred_000024" src="https://github.com/user-attachments/assets/0e7f9527-dbbe-4fc1-bb16-1d416bf909ea" />
+<img width="128" height="128" alt="pred_000016" src="https://github.com/user-attachments/assets/1466f846-99c7-4466-9b77-b3fa45cb0fd3" />
+<img width="128" height="128" alt="pred_000002" src="https://github.com/user-attachments/assets/a5320188-7fc6-41fb-bdd3-6cc4755fb589" />
+
 
 ## Challenges & Solutions
 
