@@ -1,6 +1,6 @@
 # Neural Navigator
 
-This repository contains the solution for the "Neural Navigator" assignment. The goal is to build a neural network that predicts a path (sequence of coordinates) given a 2D map image and a text command.
+This repository contains the solution for the "Neural Navigator" assignment. The goal is to build a neural network that predicts a path (sequence of coordinates) given a 2D map image and a text command. DS Ventures Assignment: Neural Navigator — Please check the Drive link. All datasets and training images are available there: **https://drive.google.com/drive/folders/1eQeoRMXwgJ2R7wJkxhvUtCE9yu60WzE8?usp=sharing**
 
 ## Project Structure
 
