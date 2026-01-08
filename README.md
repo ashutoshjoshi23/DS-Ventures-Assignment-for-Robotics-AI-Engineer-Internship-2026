@@ -34,6 +34,9 @@ This repository contains the solution for the "Neural Navigator" assignment. The
 <img width="128" height="128" alt="pred_000024" src="https://github.com/user-attachments/assets/0e7f9527-dbbe-4fc1-bb16-1d416bf909ea" />
 <img width="128" height="128" alt="pred_000016" src="https://github.com/user-attachments/assets/1466f846-99c7-4466-9b77-b3fa45cb0fd3" />
 <img width="128" height="128" alt="pred_000002" src="https://github.com/user-attachments/assets/a5320188-7fc6-41fb-bdd3-6cc4755fb589" />
+<img width="391" height="66" alt="Screenshot 2026-01-08 120020" src="https://github.com/user-attachments/assets/31d9f497-0b4f-4fdd-a23d-e7c5fe313618" />
+<img width="478" height="181" alt="Screenshot 2026-01-08 115934" src="https://github.com/user-attachments/assets/ec16182e-f8a7-4e2d-9c40-e41ebd0754fe" />
+
 
 
 ## Challenges & Solutions
